@@ -75,6 +75,10 @@
   display: block;
 }
 
+.page p {
+  text-align: center;
+}
+
 .pet-detail {
   display: flex;
   width: 100%;
